@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
   "liveServer.settings.port": 5502
+=======
+  "liveServer.settings.port": 5501,
+  "cSpell.words": ["Highscore"]
+>>>>>>> e1417e4229456b9bc92e9f20091f58a9cc88ef1a
 }
